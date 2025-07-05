@@ -6,7 +6,6 @@ Users can:
 * View available books
 * Borrow and return books
 * Track issued books
-* Pay fines
 * Maintain a history of borrowed books
 
 <h2>Installation and Running Instructions </h2>
